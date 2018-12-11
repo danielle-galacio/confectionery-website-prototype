@@ -108,6 +108,10 @@ nav a:hover {
   width: 100%;
 }
 
+.banner-content p {
+  font-size: 1rem;
+}
+
 .banner-content h2, .banner-content p {
   margin: 0;
 }
@@ -145,7 +149,7 @@ main h2 {
 
 .items li {
   display: inline-block;
-  margin: 0 .5em 1em;
+  margin-bottom: 1em;
   max-width: 20em;
   padding: 1em;
   background-color: #fff;
@@ -167,7 +171,7 @@ main h2 {
 }
 
 .about {
-  background-color: #e2e2e2;
+  background-color: #dcdcdc;
   padding: .5em;
 }
 
@@ -197,7 +201,7 @@ main h2 {
 
 .footer {
   padding: 1em;
-  background-color: #D3D3D3;
+  background-color: #dcdcdc;
 }
 
 @media only screen and (min-width: 25em) {
