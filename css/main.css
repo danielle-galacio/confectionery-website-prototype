@@ -140,6 +140,12 @@ main h2 {
   text-align: center;
 }
 
+.img-flex {
+  align-items: center;
+  display: block;
+  width: 100%;
+}
+
 .items {
   margin: 0;
   padding: 0;
